@@ -1,5 +1,5 @@
 {
-    "name": "tiny invader",
+    "name": "TinyInvader",
     "description": "",
     "dependencies": {
         "device": "*",
